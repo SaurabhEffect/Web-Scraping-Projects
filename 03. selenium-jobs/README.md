@@ -92,5 +92,3 @@ driver.execute_script("arguments[0].click();", element)
 - Add proxy rotation to avoid IP blocking
 - Screenshot on error for debugging
 - Filter by job title keyword / location
-- Export to SQLite for historical tracking
-- Add `argparse` CLI flags: `--headless`, `--max-pages`, `--keyword`
